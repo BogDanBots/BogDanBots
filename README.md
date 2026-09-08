@@ -22,4 +22,4 @@ The public case studies are intentionally separate from my private production re
 
 ## Engineering approach
 
-I care about explicit trust boundaries, observable failure modes, repeatable tests and clear operational assumptions. Claims in these repositories are tied to documented evidence and are not presented as audits, client results or production guarantees.
+I focus on explicit trust boundaries, observable failure modes, repeatable testing and clear operational assumptions. My public case studies document selected engineering work while keeping proprietary production implementations private.
