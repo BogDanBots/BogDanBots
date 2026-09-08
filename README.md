@@ -1,0 +1,25 @@
+# BogDanBots
+
+Solana/Web3 and full-stack developer focused on on-chain systems, realtime infrastructure, APIs, automation and security-conscious engineering.
+
+I build practical systems across:
+
+- Solana and Anchor programs, transaction construction and simulation
+- Python/FastAPI services and JavaScript/TypeScript/React applications
+- WebSocket and realtime data systems
+- wallet, token and transaction monitoring
+- automation, debugging, testing and performance investigation
+- Linux, WSL, VPS and cloud-backed development workflows
+
+## Selected work
+
+- **SolTrenchAPI Showcase** — a sanitized case study of a private Solana API platform, including realtime data, unsigned transaction flows, reliability work and benchmark methodology.
+- **Solana Vault Case Study** — a high-level security case study of private on-chain vault work, focused on authority relationships, non-custodial flows, failure handling and testing.
+- **Solidity Security Vault** — a compact open-source Foundry project demonstrating secure accounting, access control, fuzzing, invariants and static analysis.
+- **OpenZap Showcase** — an optional case study of a local-first agentic platform and on-chain memory concepts, subject to a separate privacy review.
+
+The public case studies are intentionally separate from my private production repositories. They explain engineering decisions without exposing commercially valuable implementation details, credentials or operational infrastructure.
+
+## Engineering approach
+
+I care about explicit trust boundaries, observable failure modes, repeatable tests and clear operational assumptions. Claims in these repositories are tied to documented evidence and are not presented as audits, client results or production guarantees.
