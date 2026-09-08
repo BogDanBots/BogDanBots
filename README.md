@@ -13,10 +13,10 @@ I build practical systems across:
 
 ## Selected work
 
-- **SolTrenchAPI Showcase** — a sanitized case study of a private Solana API platform, including realtime data, unsigned transaction flows, reliability work and benchmark methodology.
-- **Solana Vault Case Study** — a high-level security case study of private on-chain vault work, focused on authority relationships, non-custodial flows, failure handling and testing.
-- **Solidity Security Vault** — a compact open-source Foundry project demonstrating secure accounting, access control, fuzzing, invariants and static analysis.
-- **OpenZap Showcase** — an optional case study of a local-first agentic platform and on-chain memory concepts, subject to a separate privacy review.
+- [**Solidity Security Vault**](https://github.com/BogDanBots/solidity-security-vault) — a compact open-source Foundry project demonstrating secure accounting, access control, fuzzing, invariants and static analysis.
+- [**Solana Vault Case Study**](https://github.com/BogDanBots/solana-vault-case-study) — a high-level security case study of private on-chain vault work, focused on authority relationships, non-custodial flows, failure handling and testing.
+- [**SolTrenchAPI Showcase**](https://github.com/BogDanBots/soltrench-api-showcase) — a sanitized case study of a private Solana API platform, including realtime data, unsigned transaction flows, reliability work and benchmark methodology.
+- [**OpenZap Showcase**](https://github.com/BogDanBots/openzap-showcase) — a case study of a local-first agentic platform and on-chain memory concepts.
 
 The public case studies are intentionally separate from my private production repositories. They explain engineering decisions without exposing commercially valuable implementation details, credentials or operational infrastructure.
 
