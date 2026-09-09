@@ -2,6 +2,8 @@
 
 Solana/Web3 and full-stack developer focused on on-chain systems, realtime infrastructure, APIs, automation and security-conscious engineering.
 
+Live product surface: [soltrench.io](https://soltrench.io/) (closed beta).
+
 I build practical systems across:
 
 - Solana and Anchor programs, transaction construction and simulation
@@ -19,6 +21,8 @@ I build practical systems across:
 - [**OpenZap Showcase**](https://github.com/BogDanBots/openzap-showcase) — a case study of a local-first agentic platform and on-chain memory concepts.
 
 The public case studies are intentionally separate from my private production repositories. They explain engineering decisions without exposing commercially valuable implementation details, credentials or operational infrastructure.
+
+For the quickest review, start with the [SolTrenchAPI showcase](https://github.com/BogDanBots/soltrench-api-showcase), then use the live site to see the customer-facing surface.
 
 ## Engineering approach
 
